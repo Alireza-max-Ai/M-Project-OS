@@ -1,0 +1,9 @@
+﻿build/
+dist/
+*.iso
+*.img
+*.o
+node_modules/
+__pycache__/
+.vscode/
+*.log
